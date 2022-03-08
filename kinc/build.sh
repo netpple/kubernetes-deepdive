@@ -1,1 +1,1 @@
-docker build -t ubuntu:1804-k8s -f Dockerfile .
+docker build -t netpple30/ubuntu:1804-k8s -f Dockerfile .
